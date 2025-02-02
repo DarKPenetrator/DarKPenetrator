@@ -26,7 +26,13 @@
         </group>
     </sheet>
 </form>
-
+<tree string="Películas">
+    <field name="titulo"/>
+    <field name="director"/>
+    <field name="protagonista_masculino"/>
+    <field name="protagonista_femenino"/>
+    <field name="año_de_estreno"/>
+</tree>
 <!---
 DarKPenetrator/DarKPenetrator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
